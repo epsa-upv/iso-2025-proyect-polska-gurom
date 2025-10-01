@@ -2,10 +2,12 @@
 
 # Initial Software Requirements Specification
 
-#_# Selected Card Game_
+## _Selected Card Game_
+
 Blackjack
 
-#_# Functional Requirements
+## _Functional Requirements_
+
 -Drawing cards from the deck
 
 -Player draws cards (hit) and decides on a stand
@@ -14,12 +16,14 @@ Blackjack
 
 -Displaying cards and points in the browser 
 
-#_# Non-Functional Requirements
+## _Non-Functional Requirements_
+
 -Intuitive and clear interface
 
 -Responsive (works on various resolutions)
 
 -Minimum loading time
 
-#_# Initial Prototype
+## _Initial Prototype_
+
 -Multi-round game, with an initial value to use
