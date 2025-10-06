@@ -1,10 +1,36 @@
 # Requirements specyfication (sprint 1)
 
-# Initial Software Requirements Specification
-
 ## _Selected Card Game_
 
 Blackjack
+
+# Introduction
+
+## Purpose of the document
+The document specifies requirements and functional/non-funcjonal specification for the card game Blackjack as the application
+## Product range
+-single player game vs dealer(AI) -lokal mode and (optional) multiplayer 
+by the web
+-System of stakes and single player balance
+-UI  (user interface)
+-CI (continuous integration)
+
+## Definitions, acronyms and abbreviations
+-Blackjack(BJ) - card game, the goal is to abtain sum of cards closer to 21 then dealer without crossing the 21 
+- UI - user interface
+-API - application programming interface
+- CI - Continuous integration
+
+## References
+- Blackjack rules (link to the official rules)
+-Style guide repo
+-github actions docs
+
+## Review of the document
+Document contains a general description, detailed functional and non-funcional requirements, a repository design, a test plan and annexes
+
+
+
 
 ## _Functional Requirements_
 
